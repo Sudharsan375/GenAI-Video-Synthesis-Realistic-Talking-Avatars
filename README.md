@@ -48,10 +48,15 @@ This project is an end-to-end pipeline that transforms text prompts into high-qu
 Install Dependencies
 
 !apt-get install -y ffmpeg libsm6 libxext6,
+
 !pip install numpy==1.23.5,
+
 !pip install TTS gtts googletrans==4.0.0-rc1,
+
 !pip install git+https://github.com/openai/whisper.git,
+
 !pip install --upgrade torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118,
+
 !pip install --upgrade torchao
 
 ---
