@@ -22,6 +22,7 @@ This project is an end-to-end pipeline that transforms text prompts into high-qu
 ---
 
 🧠 Pipeline Overview
+
 📥 Upload video through interactive widget
 
 💬 Generate text using AI
